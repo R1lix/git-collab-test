@@ -6,6 +6,7 @@ namespace BookStore.DataAcces
     public class BookStoreDbContext  : DbContext
 
     {
+        // Наш DB context с опциями
         public BookStoreDbContext(DbContextOptions<BookStoreDbContext> options) 
             : base(options)
         {
