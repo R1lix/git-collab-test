@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Mini-CRUD-Application\\BookStore\\BookStore.csproj": {}
+    "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore\\BookStore.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Mini-CRUD-Application\\BookStore.Application\\BookStore.Application.csproj": {
+    "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.Application\\BookStore.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Mini-CRUD-Application\\BookStore.Application\\BookStore.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.Application\\BookStore.Application.csproj",
         "projectName": "BookStore.Application",
-        "projectPath": "C:\\Projects\\Mini-CRUD-Application\\BookStore.Application\\BookStore.Application.csproj",
-        "packagesPath": "C:\\Users\\makss\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Mini-CRUD-Application\\BookStore.Application\\obj\\",
+        "projectPath": "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.Application\\BookStore.Application.csproj",
+        "packagesPath": "C:\\Users\\Rilix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\makss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rilix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projects\\Mini-CRUD-Application\\BookStore.Core\\BookStore.Core.csproj": {
-                "projectPath": "C:\\Projects\\Mini-CRUD-Application\\BookStore.Core\\BookStore.Core.csproj"
+              "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.Core\\BookStore.Core.csproj": {
+                "projectPath": "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.Core\\BookStore.Core.csproj"
               }
             }
           }
@@ -43,7 +47,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -64,21 +69,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\Mini-CRUD-Application\\BookStore.Core\\BookStore.Core.csproj": {
+    "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.Core\\BookStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Mini-CRUD-Application\\BookStore.Core\\BookStore.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.Core\\BookStore.Core.csproj",
         "projectName": "BookStore.Core",
-        "projectPath": "C:\\Projects\\Mini-CRUD-Application\\BookStore.Core\\BookStore.Core.csproj",
-        "packagesPath": "C:\\Users\\makss\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Mini-CRUD-Application\\BookStore.Core\\obj\\",
+        "projectPath": "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.Core\\BookStore.Core.csproj",
+        "packagesPath": "C:\\Users\\Rilix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\makss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rilix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -103,7 +112,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -132,21 +142,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\Mini-CRUD-Application\\BookStore.DataAcces\\BookStore.DataAcces.csproj": {
+    "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.DataAcces\\BookStore.DataAcces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Mini-CRUD-Application\\BookStore.DataAcces\\BookStore.DataAcces.csproj",
+        "projectUniqueName": "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.DataAcces\\BookStore.DataAcces.csproj",
         "projectName": "BookStore.DataAcces",
-        "projectPath": "C:\\Projects\\Mini-CRUD-Application\\BookStore.DataAcces\\BookStore.DataAcces.csproj",
-        "packagesPath": "C:\\Users\\makss\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Mini-CRUD-Application\\BookStore.DataAcces\\obj\\",
+        "projectPath": "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.DataAcces\\BookStore.DataAcces.csproj",
+        "packagesPath": "C:\\Users\\Rilix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.DataAcces\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\makss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rilix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -160,8 +174,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projects\\Mini-CRUD-Application\\BookStore.Core\\BookStore.Core.csproj": {
-                "projectPath": "C:\\Projects\\Mini-CRUD-Application\\BookStore.Core\\BookStore.Core.csproj"
+              "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.Core\\BookStore.Core.csproj": {
+                "projectPath": "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.Core\\BookStore.Core.csproj"
               }
             }
           }
@@ -175,7 +189,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -212,21 +227,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projects\\Mini-CRUD-Application\\BookStore\\BookStore.csproj": {
+    "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore\\BookStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Mini-CRUD-Application\\BookStore\\BookStore.csproj",
+        "projectUniqueName": "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore\\BookStore.csproj",
         "projectName": "BookStore",
-        "projectPath": "C:\\Projects\\Mini-CRUD-Application\\BookStore\\BookStore.csproj",
-        "packagesPath": "C:\\Users\\makss\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Mini-CRUD-Application\\BookStore\\obj\\",
+        "projectPath": "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore\\BookStore.csproj",
+        "packagesPath": "C:\\Users\\Rilix\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\makss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rilix\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -240,14 +259,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Projects\\Mini-CRUD-Application\\BookStore.Application\\BookStore.Application.csproj": {
-                "projectPath": "C:\\Projects\\Mini-CRUD-Application\\BookStore.Application\\BookStore.Application.csproj"
+              "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.Application\\BookStore.Application.csproj": {
+                "projectPath": "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.Application\\BookStore.Application.csproj"
               },
-              "C:\\Projects\\Mini-CRUD-Application\\BookStore.Core\\BookStore.Core.csproj": {
-                "projectPath": "C:\\Projects\\Mini-CRUD-Application\\BookStore.Core\\BookStore.Core.csproj"
+              "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.Core\\BookStore.Core.csproj": {
+                "projectPath": "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.Core\\BookStore.Core.csproj"
               },
-              "C:\\Projects\\Mini-CRUD-Application\\BookStore.DataAcces\\BookStore.DataAcces.csproj": {
-                "projectPath": "C:\\Projects\\Mini-CRUD-Application\\BookStore.DataAcces\\BookStore.DataAcces.csproj"
+              "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.DataAcces\\BookStore.DataAcces.csproj": {
+                "projectPath": "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.DataAcces\\BookStore.DataAcces.csproj"
               }
             }
           }
@@ -261,7 +280,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -297,7 +317,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
