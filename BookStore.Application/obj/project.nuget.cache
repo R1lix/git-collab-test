@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3rskwvGds4o=",
+  "dgSpecHash": "jFhePn+tzb4b4tT98p9lfL6myG5HRD99GmpHBEEFS6kpg+iKHFubI3ZJ+Mc6NEQ5PzOInbzhQtHfaSgX5z80CQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rilix\\Desktop\\Mini-CRUD-Application\\BookStore.Application\\BookStore.Application.csproj",
+  "projectFilePath": "C:\\Projects\\git-collab-test\\BookStore.Application\\BookStore.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
